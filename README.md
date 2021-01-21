@@ -6,7 +6,9 @@ added Fire2012, stores image data in progmem for now.
 
 
 ssid = ESP_FastLED_Access_Point
+
 password = ilikerustyspoons
+
 URL = http://192.168.4.1
 
 will try to extend this to a second poi and add more functionality, read images from a filesystem, WebSockets maybe. 
